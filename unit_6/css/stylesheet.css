@@ -52,7 +52,7 @@ background-color: #FFFFFF;
 
 }
 #leadership {
-	background: url("file:///Users/ROBYN/Pictures/TORCC.ORG/TORCC%20NEW%20YORK%202016/Website/Background%20/photo-1440330279483-c94a4f9832f3.jpg");
+	background: url(file:///Users/ROBYN/Pictures/TORCC.ORG/TORCC%20NEW%20YORK%202016/Website/Background%20/photo-1440330279483-c94a4f9832f3.jpg);
 	background-size: cover;
 	background-repeat: none;
 	background-attachment: fixed;
@@ -62,7 +62,7 @@ background-color: #FFFFFF;
 
 }
 #whats-happening {
-	background: url("file:///Users/ROBYN/Pictures/TORCC.ORG/TORCC%20NEW%20YORK%202016/Website/Background%20/photo-1440330033336-7dcff4630cef.jpg");
+	background: url(file:///Users/ROBYN/Pictures/TORCC.ORG/TORCC%20NEW%20YORK%202016/Website/Background%20/photo-1440330033336-7dcff4630cef.jpg);
 	background-size: cover;
 	background-repeat: none;
 	background-attachment: fixed;
@@ -77,7 +77,7 @@ background-color: #FFFFFF;
 	padding:20px;
 }
 #Give {
-	background: url("file:///Users/ROBYN/Pictures/give-second-picture.jpg");
+	background: url(file:///Users/ROBYN/Pictures/give-second-picture.jpg);
 	background-size: cover;
 	background-repeat: none;
 	padding:20px;
