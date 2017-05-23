@@ -1,0 +1,146 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100i,300,300i,400,400i,700,700i,900,900i|Oswald:200,300,400,500,600,700|Poiret+One);
+
+body {
+	text-align: center;
+	background: #FFFFFF;
+	background-size: cover;
+	color: #292929;
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	letter-spacing: .9px;
+	line-height: 2em;
+
+}
+header {
+    background-color: #1E1F24;
+    padding:0px;
+}
+nav{	
+	display: block;
+	border: none;
+	padding:20px;
+	float: right;
+	width: 50%;
+}
+a {
+	color:#ffffff;
+	text-decoration: none;
+}
+#Logo {
+	float:left;
+}
+#calltoaction {
+	background-color: #0ACFE8;
+	border:none;
+	padding:20px;
+
+}
+#actiontext{
+	color: #ffffff;
+}
+#intro {
+background-color: #FFFFFF;
+	border:none;
+	padding:20px;
+	color
+}
+#connect {
+	background-color: #FFFFFF
+	border:none;
+	color: #292929;
+
+}
+#leadership {
+	background: url("file:///Users/ROBYN/Pictures/TORCC.ORG/TORCC%20NEW%20YORK%202016/Website/Background%20/photo-1440330279483-c94a4f9832f3.jpg");
+	background-size: cover;
+	background-repeat: none;
+	background-attachment: fixed;
+	border:1px black solid;
+	padding:20px;
+	color: #FFFFFF;
+
+}
+#whats-happening {
+	background: url(file:///Users/ROBYN/Pictures/TORCC.ORG/TORCC%20NEW%20YORK%202016/Website/Background%20/photo-1440330033336-7dcff4630cef.jpg);
+	background-size: cover;
+	background-repeat: none;
+	background-attachment: fixed;
+	background-color: #FFE2B8;
+	border:1px black solid;
+	padding:20px;
+	color: #FFFFFF;
+}
+#Blog {
+	background-color: #FFE2B8;
+	border:1px black solid;
+	padding:20px;
+}
+#Give {
+	background: url(file:///Users/ROBYN/Pictures/give-second-picture.jpg);
+	background-size: cover;
+	background-repeat: none;
+	padding:20px;
+	color: white;
+}
+#three_column {
+    background-color: #f2f2f2;
+    border: none;
+}
+#get_connected {
+    border: none;
+    padding: 50px;
+    float: left;
+    width: 20%;
+}
+#receive_ministry {
+    border: none;
+    padding: 50px;
+    float: left;
+    width: 20%;
+}
+
+#become_equipped {
+    border: none;
+    padding: 50px;
+    float: left;   
+    width: 20%;
+}
+#fulfill_your_destiny {
+    border: none;
+    padding: 50px;
+    float: left;   
+    width: 20%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+h1, h2, {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 500;
+	font-size: 32px;
+}
+h3 {
+	font-size: 22px;
+}
+#LeaderTitle {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+hr {
+	width: 400px;
+}
+footer{
+	background-color: #000;
+	border:1px black solid;
+	padding:20px;
+	color: grey;
+
+}
